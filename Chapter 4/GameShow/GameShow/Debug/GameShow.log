@@ -1,0 +1,3 @@
+﻿  GameShow.cpp
+c:\users\jabrel\documents\visual studio 2017\projects\chapter 3\gameshow\gameshow\gameshow.cpp(75): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameShow.vcxproj -> C:\Users\jabrel\Documents\Visual Studio 2017\Projects\Chapter 3\GameShow\Debug\GameShow.exe

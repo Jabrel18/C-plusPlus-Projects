@@ -1,0 +1,3 @@
+﻿  PlayableGameShow.cpp
+c:\users\jabrel\documents\visual studio 2017\projects\chapter 3\playablegameshow\playablegameshow\playablegameshow.cpp(44): warning C4715: 'playSwap': not all control paths return a value
+  PlayableGameShow.vcxproj -> C:\Users\jabrel\Documents\Visual Studio 2017\Projects\Chapter 3\PlayableGameShow\Debug\PlayableGameShow.exe

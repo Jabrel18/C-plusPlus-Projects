@@ -1,0 +1,3 @@
+﻿  Student.cpp
+c:\users\jabrel\documents\visual studio 2017\projects\chapter 10\student\student\student.cpp(55): warning C4101: 'i': unreferenced local variable
+  Student.vcxproj -> C:\Users\jabrel\Documents\Visual Studio 2017\Projects\Chapter 10\Student\Debug\Student.exe

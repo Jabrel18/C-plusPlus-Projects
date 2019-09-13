@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  Grades.cpp
+c:\users\jabrel\documents\visual studio 2017\projects\chapter 10\grades\grades\grades.cpp(39): warning C4018: '<': signed/unsigned mismatch
+  Grades.vcxproj -> C:\Users\jabrel\Documents\Visual Studio 2017\Projects\Chapter 10\Grades\Debug\Grades.exe

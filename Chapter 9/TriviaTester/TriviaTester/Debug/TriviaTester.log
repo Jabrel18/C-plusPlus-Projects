@@ -1,0 +1,3 @@
+﻿  TriviaTester.cpp
+c:\users\jabrel\documents\visual studio 2017\projects\chapter 9\triviatester\triviatester\triviatester.cpp(21): warning C4018: '<': signed/unsigned mismatch
+  TriviaTester.vcxproj -> C:\Users\jabrel\Documents\Visual Studio 2017\Projects\Chapter 9\TriviaTester\Debug\TriviaTester.exe
